@@ -4,11 +4,8 @@
 <h3 align="center">Passionate about Backend Development and DevOps</h3>
 
 
-- 🌱 I’m currently learning **Golang , Node.js , Express.js , Ejs , MongoDB , PostgreSQL, Linux**
 
-- 💬 Ask me about **DevOps and Backend dev**
-
-- 📫 you can reach me at **iamsagar762@gmail.com**
+<p align="center">📫 you can reach me at <b>iamsagar762@gmail.com</b></p> 
 
 <h3 align="center">Connect with me:</h3>
 <p align="center">
