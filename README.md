@@ -21,5 +21,5 @@
 
 <br>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sagarsingh2003&" alt="sagarsingh2003" /></p>
+<p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sagarsingh2003&" alt="sagarsingh2003" /></p>
 
