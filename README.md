@@ -22,15 +22,5 @@
 <br>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sagarsingh2003&show_icons=true&locale=en&layout=compact" alt="sagarsingh2003" /></p>
-
-
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-
-
 <p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=sagarsingh2003&" alt="sagarsingh2003" /></p>
 
